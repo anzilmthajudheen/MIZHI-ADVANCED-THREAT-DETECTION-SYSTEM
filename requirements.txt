@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+tensorflow
+ultralytics
+scikit-learn
+numpy
+pillow
+tkinter
