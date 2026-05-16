@@ -119,23 +119,5 @@ python mizhi_detector.py
 | 🟨 Yellow | Potential Fake Weapon |
 | 🟧 Orange | Suspicious Object     |
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-**Developer:** Anzil M Thajudheen
-📧 Email: [your-email@example.com](mailto:anzilmthajudheen@gmail.com)
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/anzil-m-thajudheen-291749259)
-
----
-
-⚠️ **Disclaimer:**
-Use this system only for authorized surveillance purposes. Ensure compliance with all applicable local laws and privacy regulations.
 
 ```
